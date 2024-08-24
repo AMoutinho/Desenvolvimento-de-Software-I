@@ -1,0 +1,23 @@
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Verificação de Palindromo.exe
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Verificação de Palindromo.pdb
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\bin\Debug\Verificação de Palindromo.exe
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\bin\Debug\Verificação de Palindromo.pdb
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Palindrome.frmpalindromo.resources
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\Palindrome.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\teste\Palindrome - Cópia\Palindrome\obj\x86\Debug\prj_palindromo_03.csproj.GenerateResource.Cache
+C:\Users\Moutinho\Desktop\teste\Palindrome\Palindrome\obj\x86\Debug\Verificação de Palindromo.exe
+C:\Users\Moutinho\Desktop\teste\Palindrome\Palindrome\obj\x86\Debug\Verificação de Palindromo.pdb
+C:\Users\Moutinho\Desktop\teste\Palindrome\Palindrome\bin\Debug\Verificação de Palindromo.exe
+C:\Users\Moutinho\Desktop\teste\Palindrome\Palindrome\bin\Debug\Verificação de Palindromo.pdb
+C:\Users\Moutinho\Desktop\teste\Palindrome\Palindrome\obj\x86\Debug\prj_palindromo_03.csprojResolveAssemblyReference.cache
+C:\Users\Moutinho\Desktop\teste\Palindrome\Palindrome\obj\x86\Debug\Palindrome.frmpalindromo.resources
+C:\Users\Moutinho\Desktop\teste\Palindrome\Palindrome\obj\x86\Debug\Palindrome.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\teste\Palindrome\Palindrome\obj\x86\Debug\prj_palindromo_03.csproj.GenerateResource.Cache
+E:\DSO I\Exercícios\Exercícios Avulsos\Verificação de Palindromo\PrjPalindromo\Palindrome\Palindrome\obj\x86\Debug\Verificação de Palindromo.exe
+E:\DSO I\Exercícios\Exercícios Avulsos\Verificação de Palindromo\PrjPalindromo\Palindrome\Palindrome\obj\x86\Debug\Verificação de Palindromo.pdb
+E:\DSO I\Exercícios\Exercícios Avulsos\Verificação de Palindromo\PrjPalindromo\Palindrome\Palindrome\bin\Debug\Verificação de Palindromo.exe
+E:\DSO I\Exercícios\Exercícios Avulsos\Verificação de Palindromo\PrjPalindromo\Palindrome\Palindrome\bin\Debug\Verificação de Palindromo.pdb
+E:\DSO I\Exercícios\Exercícios Avulsos\Verificação de Palindromo\PrjPalindromo\Palindrome\Palindrome\obj\x86\Debug\prj_palindromo_03.csprojResolveAssemblyReference.cache
+E:\DSO I\Exercícios\Exercícios Avulsos\Verificação de Palindromo\PrjPalindromo\Palindrome\Palindrome\obj\x86\Debug\Palindrome.Properties.Resources.resources
+E:\DSO I\Exercícios\Exercícios Avulsos\Verificação de Palindromo\PrjPalindromo\Palindrome\Palindrome\obj\x86\Debug\prj_palindromo_03.csproj.GenerateResource.Cache
+E:\DSO I\Exercícios\Exercícios Avulsos\Verificação de Palindromo\PrjPalindromo\Palindrome\Palindrome\obj\x86\Debug\Palindrome.VerificarPalindromo_03.resources
