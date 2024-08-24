@@ -1,0 +1,41 @@
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\bin\Debug\prj_acad.exe.config
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\bin\Debug\prj_acad.exe
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\bin\Debug\prj_acad.pdb
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.csprojResolveAssemblyReference.cache
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.Form1.resources
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.csproj.GenerateResource.Cache
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.exe
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.pdb
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.splash.resources
+C:\Users\Moutinho\Desktop\PrjAcad\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.exe.config
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.exe.config
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\obj\Debug\prj_acad.csprojResolveAssemblyReference.cache
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\obj\Debug\prj_acad.Form1.resources
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\obj\Debug\prj_acad.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\obj\Debug\prj_acad.splash.resources
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\obj\Debug\prj_acad.csproj.GenerateResource.Cache
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.exe
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.pdb
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\obj\Debug\GYM Fábrica de Monstros.exe
+C:\Users\Moutinho\Desktop\PrjAcad XXX- Cópia\prj_acad\prj_acad\obj\Debug\GYM Fábrica de Monstros.pdb
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.exe.config
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\GYM Fábrica de Monstros.exe
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\GYM Fábrica de Monstros.pdb
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.exe
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.pdb
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.csprojResolveAssemblyReference.cache
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.Form1.resources
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.Properties.Resources.resources
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.splash.resources
+F:\DSO I\Exercícios\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.csproj.GenerateResource.Cache
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.exe.config
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\GYM Fábrica de Monstros.exe
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\GYM Fábrica de Monstros.pdb
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.exe
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\bin\Debug\GYM Fábrica de Monstros.pdb
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.csprojResolveAssemblyReference.cache
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.Gym.resources
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.splash.resources
+C:\Users\Moutinho\Desktop\Projeto Academia\PrjAcad\prj_acad\prj_acad\obj\Debug\prj_acad.csproj.GenerateResource.Cache
