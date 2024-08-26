@@ -1,0 +1,32 @@
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.csprojResolveAssemblyReference.cache
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.Properties.Resources.resources
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.csproj.GenerateResource.Cache
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.frmemprestimo_03.resources
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo\prj_emprestimo_03\prj_emprestimo_03\bin\Debug\Calculo de Emprestimo.exe
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo\prj_emprestimo_03\prj_emprestimo_03\bin\Debug\Calculo de Emprestimo.pdb
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\Calculo de Emprestimo.exe
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\Calculo de Emprestimo.pdb
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo03\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\Calculo de Emprestimo.exe
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo03\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\Calculo de Emprestimo.pdb
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo03\prj_emprestimo_03\prj_emprestimo_03\bin\Debug\Calculo de Emprestimo.exe
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo03\prj_emprestimo_03\prj_emprestimo_03\bin\Debug\Calculo de Emprestimo.pdb
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo03\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.csprojResolveAssemblyReference.cache
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo03\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.frmemprestimo_03.resources
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo03\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.Properties.Resources.resources
+C:\Users\MOUTINHO\Desktop\PrjEmprestimo03\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.csproj.GenerateResource.Cache
+C:\Users\MOUTINHO\Desktop\Emprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\Calculo de Emprestimo.exe
+C:\Users\MOUTINHO\Desktop\Emprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\Calculo de Emprestimo.pdb
+C:\Users\MOUTINHO\Desktop\Emprestimo\prj_emprestimo_03\prj_emprestimo_03\bin\Debug\Calculo de Emprestimo.exe
+C:\Users\MOUTINHO\Desktop\Emprestimo\prj_emprestimo_03\prj_emprestimo_03\bin\Debug\Calculo de Emprestimo.pdb
+C:\Users\MOUTINHO\Desktop\Emprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.csprojResolveAssemblyReference.cache
+C:\Users\MOUTINHO\Desktop\Emprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.frmemprestimo_03.resources
+C:\Users\MOUTINHO\Desktop\Emprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.Properties.Resources.resources
+C:\Users\MOUTINHO\Desktop\Emprestimo\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.csproj.GenerateResource.Cache
+C:\Users\MOUTINHO\Desktop\Emprestimo_O3\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\Calculo de Emprestimo.exe
+C:\Users\MOUTINHO\Desktop\Emprestimo_O3\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\Calculo de Emprestimo.pdb
+C:\Users\MOUTINHO\Desktop\Emprestimo_O3\prj_emprestimo_03\prj_emprestimo_03\bin\Debug\Calculo de Emprestimo.exe
+C:\Users\MOUTINHO\Desktop\Emprestimo_O3\prj_emprestimo_03\prj_emprestimo_03\bin\Debug\Calculo de Emprestimo.pdb
+C:\Users\MOUTINHO\Desktop\Emprestimo_O3\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.csprojResolveAssemblyReference.cache
+C:\Users\MOUTINHO\Desktop\Emprestimo_O3\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.frmemprestimo_03.resources
+C:\Users\MOUTINHO\Desktop\Emprestimo_O3\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.Properties.Resources.resources
+C:\Users\MOUTINHO\Desktop\Emprestimo_O3\prj_emprestimo_03\prj_emprestimo_03\obj\Debug\prj_emprestimo_03.csproj.GenerateResource.Cache
