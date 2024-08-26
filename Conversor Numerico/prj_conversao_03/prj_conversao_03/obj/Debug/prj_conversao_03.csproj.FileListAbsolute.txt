@@ -1,0 +1,16 @@
+C:\Users\MOUTINHO\Desktop\PrjDecBin\prj_conversao_03\prj_conversao_03\bin\Debug\prj_conversao_03.exe
+C:\Users\MOUTINHO\Desktop\PrjDecBin\prj_conversao_03\prj_conversao_03\bin\Debug\prj_conversao_03.pdb
+C:\Users\MOUTINHO\Desktop\PrjDecBin\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.csprojResolveAssemblyReference.cache
+C:\Users\MOUTINHO\Desktop\PrjDecBin\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.Properties.Resources.resources
+C:\Users\MOUTINHO\Desktop\PrjDecBin\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.csproj.GenerateResource.Cache
+C:\Users\MOUTINHO\Desktop\PrjDecBin\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.exe
+C:\Users\MOUTINHO\Desktop\PrjDecBin\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.pdb
+C:\Users\MOUTINHO\Desktop\PrjDecBin\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.frmconversao.resources
+C:\Users\MOUTINHO\Desktop\Conversão Numérica\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.exe
+C:\Users\MOUTINHO\Desktop\Conversão Numérica\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.pdb
+C:\Users\MOUTINHO\Desktop\Conversão Numérica\prj_conversao_03\prj_conversao_03\bin\Debug\prj_conversao_03.exe
+C:\Users\MOUTINHO\Desktop\Conversão Numérica\prj_conversao_03\prj_conversao_03\bin\Debug\prj_conversao_03.pdb
+C:\Users\MOUTINHO\Desktop\Conversão Numérica\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.csprojResolveAssemblyReference.cache
+C:\Users\MOUTINHO\Desktop\Conversão Numérica\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.frmconversao.resources
+C:\Users\MOUTINHO\Desktop\Conversão Numérica\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.Properties.Resources.resources
+C:\Users\MOUTINHO\Desktop\Conversão Numérica\prj_conversao_03\prj_conversao_03\obj\Debug\prj_conversao_03.csproj.GenerateResource.Cache
