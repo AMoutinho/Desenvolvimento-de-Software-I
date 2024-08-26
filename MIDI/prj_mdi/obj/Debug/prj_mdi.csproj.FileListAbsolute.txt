@@ -1,0 +1,12 @@
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\bin\Debug\prj_mdi.exe
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\bin\Debug\prj_mdi.pdb
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.csprojResolveAssemblyReference.cache
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.csproj.GenerateResource.Cache
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.exe
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.pdb
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.principal.resources
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.Item1_menu_arquivo.resources
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.Item2_menu_arquivo.resources
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.Item3_menu_arquivo.resources
+C:\Users\Moutinho\Desktop\MDI\prj_mdi\prj_mdi\obj\Debug\prj_mdi.frmPadrão.resources
