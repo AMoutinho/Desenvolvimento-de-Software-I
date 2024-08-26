@@ -1,6 +1,6 @@
 # <p align=center><img align="center" src="https://i.imgur.com/EQPkSGM.png" height="60" width="65"/> Desenvolvimento de Software I <img align="center" src="https://i.imgur.com/EQPkSGM.png" height="60" width="65"/></p>
 
-<p>Este repositório é destinado a exercícios propostos durante as aulas de <b>DESENVOLVIMENTO DE SOFTWARE I</b> do curso de Técnico em Informática com foco em Programação de Computadores da ETEC Aristóteles Ferreira.</p>
+<p>Este repositório é destinado a exercícios propostos durante as aulas de <b>DESENVOLVIMENTO DE SOFTWARE I</b> do curso de Técnico em Informática com foco em Programação de Computadores da ETEC Aristóteles Ferreira. A disciplina utilizava como linguagem de apoio C-SHARP.</p>
 <br>
 
 <h2>Atividades Avulsas 📂</h2>
