@@ -1,0 +1,8 @@
+C:\Users\Moutinho\Desktop\IMC v2\IMC\bin\Debug\IMC.exe
+C:\Users\Moutinho\Desktop\IMC v2\IMC\bin\Debug\IMC.pdb
+C:\Users\Moutinho\Desktop\IMC v2\IMC\obj\x86\Debug\IMC.csprojResolveAssemblyReference.cache
+C:\Users\Moutinho\Desktop\IMC v2\IMC\obj\x86\Debug\IMC.Form1.resources
+C:\Users\Moutinho\Desktop\IMC v2\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+C:\Users\Moutinho\Desktop\IMC v2\IMC\obj\x86\Debug\IMC.csproj.GenerateResource.Cache
+C:\Users\Moutinho\Desktop\IMC v2\IMC\obj\x86\Debug\IMC.exe
+C:\Users\Moutinho\Desktop\IMC v2\IMC\obj\x86\Debug\IMC.pdb
